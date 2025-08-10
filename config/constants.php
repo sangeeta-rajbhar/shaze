@@ -1,0 +1,47 @@
+<?php return [
+'PAGINATE_onEachSide' => 1,
+'DATEFORMAT' => 'd-m-Y',
+'TIMEFORMAT' => 'H:m:s a',
+'PAGINATEVALUE' => '50',
+'ROLES'=>[
+    1 => 'Super Admin',
+    2 => 'Admin',
+    3 => 'User',
+],
+'CUSTOMERHEADER' => [
+    'No',
+    'First Name',
+    'Last Name',
+    'Email',
+    'Phone Number',
+    'Gender',
+    'Date of Birth',
+    'Anniversary',
+    'Address Line',
+    'Address Landmark',
+    'Country Code',
+    'Invoice Type',
+    'Allow Promotional Communication',
+    'Allow Transactional Communication',
+    'Communication Channel'
+],
+
+'CUSTOMER_FILE_HEADER' => [
+    'No',
+    'First Name',
+    'Last Name',
+    'Email',
+    'Phone Number',
+    'Gender',
+    'Date of Birth',
+    'Anniversary',
+    'Address Line',
+    'Address Landmark',
+    'Country Code',
+    'Invoice Type',
+    'Allow Promotional Communication',
+    'Allow Transactional Communication',
+    'Communication Channel'
+],
+];
+?>

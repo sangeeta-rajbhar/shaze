@@ -1,0 +1,46 @@
+span.red-star {
+    color: #ff0000;
+}
+span.madatory {
+    color: #ff0000;
+}
+
+/******19-08-2022*******/
+.modal-footer .pagination_tab nav svg{width: 15px;}
+
+.invalid-feedback-dropdown{
+    color: #ff0000;
+    margin-top: 5px;
+    float: left;
+}
+.main-header-left.d-none.d-lg-block {
+    background: #ffffff !important;
+    min-height: 55px;
+    border-right: 1px solid;
+}
+
+span.validationerrortext {
+    color: #ff0000;
+    margin-top: 5px;
+    float: left;
+}
+
+.logo-wrapper{
+text-align:center;
+}
+.logo-wrapper img{
+width:70%;
+}
+
+.flex.justify-between.flex-1.sm\:hidden {
+    display: none;
+}
+
+
+p.text-sm.text-gray-700.leading-5 {
+    display: none;
+}
+
+img.img-thumbnail.service-logo{
+    width: 50px;
+}

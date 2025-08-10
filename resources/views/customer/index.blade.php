@@ -35,7 +35,7 @@
     </div>
 </div>
 
-@include('customer.serach')
+@include('customer.search')
 
 @include('layouts.alert')
 <div class="container-fluid">

@@ -53,6 +53,7 @@ class CustomerController extends Controller
         }
 
         $data['customerlist'] = Customer::GetCustomerList($name,$orderby,$search,$filter);
+
         return view('customer.index',$data);
     }
 

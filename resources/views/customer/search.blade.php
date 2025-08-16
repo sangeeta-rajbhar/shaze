@@ -24,7 +24,7 @@
                             <div class="col-lg-4">
                                 <div class="mb-2">
                                     <div class="col-form-label">Created Date  (Range)</div>
-                                    <input class="form-control digits" type="text" name="daterange" value="{{$_GET['daterange'] ?? ''}}">
+                                    <input class="form-control digits" type="text" name="datefilter" value="{{$_GET['datefilter'] ?? ''}}">
                                 </div>
                             </div>
                         </div>

@@ -2939,6 +2939,9 @@ table tbody .border-bottom-warning td {
                 left: 51px;
                 top: 9px;
                 z-index: 2; }
+                .daterangepicker.dropdown-menu{
+                  right:0 !important
+                }
               .page-main-header .main-header-right .nav-right > ul > li:first-child .search-form .form-group:after {
                 position: absolute;
                 content: "\f002";
